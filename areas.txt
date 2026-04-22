@@ -1,0 +1,5 @@
+Areas principais:
+1. Working directory - Onde editamos os arquivos
+2. Staging area - Arquivos preparado para o commit - git add
+3. Repository - Histórico permanente de versões - git commit
+

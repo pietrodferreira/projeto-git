@@ -1,0 +1,8 @@
+git config --global --unset-all user.name
+git config --global --unset-all user.email
+
+git add .
+git commit -m ""
+
+git config --global user.name
+git config --global user.email
